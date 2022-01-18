@@ -1,3 +1,5 @@
+This is my solution to Execism's "Armstrong Numbers" problem.
+---
 # Armstrong Numbers
 
 Welcome to Armstrong Numbers on Exercism's Dart Track.
